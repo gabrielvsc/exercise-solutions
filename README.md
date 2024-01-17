@@ -5,6 +5,7 @@ Repository to store my solutions to LeetCode questions. I don't have a main lang
 
 #### 📗 Easy
 - [9. Palindrome Number](https://github.com/gabrielvsc/leetcode/blob/master/easy/9-PalindromeNumber.py)
+- [217. Contains Duplicate](https://github.com/gabrielvsc/leetcode/blob/master/easy/217-ContainsDuplicate.py)
 
 #### 📙 Medium
 - [167. Two Sum II](https://github.com/gabrielvsc/leetcode/blob/master/medium/167-TwoSum-II.py)
