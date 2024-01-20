@@ -9,7 +9,8 @@ Repository to store my solutions to LeetCode questions. I don't have a main lang
 - [242. Valid Anagram](https://github.com/gabrielvsc/leetcode/blob/master/easy/242-ValidAnagram.py)
 
 #### 📙 Medium
-- [167. Two Sum II](https://github.com/gabrielvsc/leetcode/blob/master/medium/167-TwoSum-II.py)
 - [15. 3Sum](https://github.com/gabrielvsc/leetcode/blob/master/medium/15-3Sum.py)
+- [61. Rotate List](https://github.com/gabrielvsc/leetcode/blob/master/medium/61-RotateList.py)
+- [167. Two Sum II](https://github.com/gabrielvsc/leetcode/blob/master/medium/167-TwoSum-II.py)
 
 #### 📕 Hard
