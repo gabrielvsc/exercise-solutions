@@ -32,7 +32,10 @@ A repository showcasing my solutions to LeetCode and CodeForces problems. While 
 
 | Name    | Difficulty    | Topics    |
 |-|-|-|
-| [1A. Theatre Square](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1A-TheatreSquare.py) | ⬜ 800 | `Math` |
+| [1A. Theatre Square](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1A-TheatreSquare.py) | ⬜ 1000 | `Math` |
 | [4A. Watermelon](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/4A-Watermelon.py) | ⬜ 800 | `Brute Force` `Math` |
+| [25A. IQ test](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/25A-IQtest.py) | 🟩 1300 | `Brute Force` |
+| [69A. Young Physicist](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/69A-YoungPhysicist.py) | ⬜ 1000 | `Implementation` `Math` |
 | [71A. Way Too Long Words](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/714A-WayTooLongWords.py) | ⬜ 800 | `Strings` |
+| [118A. String Task](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/118A-StringTask.py) | ⬜ 1000 | `Implementation` `Strings` |
 | [282A. Bit++](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/282A-Bitpp.py) | ⬜ 800 | `Implementation` |
