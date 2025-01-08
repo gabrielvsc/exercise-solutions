@@ -40,4 +40,5 @@ A repository showcasing my solutions to LeetCode and CodeForces problems. While 
 | [118A. String Task](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/118A-StringTask.py) | ⬜ 1000 | `Implementation` `Strings` |
 | [282A. Bit++](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/282A-Bitpp.py) | ⬜ 800 | `Implementation` |
 | [466A. Cheap Travel](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/466A-CheapTravel.py) | ⬜ 1200 | `Implementation` |
+| [451A. Game With Sticks](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/451A-GameWithSticks.py) | ⬜ 900 | `Implementation` |
 | [4C. Registration System](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/4C-RegistrationSystem.py) | 🟩 1300 | `Data Structures` `Hashing` `Implementation` |
