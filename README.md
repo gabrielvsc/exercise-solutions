@@ -43,5 +43,6 @@ A repository showcasing my solutions to LeetCode and CodeForces problems. While 
 | [451A. Game With Sticks](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/451A-GameWithSticks.py) | ⬜ 900 | `Implementation` |
 | [1491A. K-th Largest Value](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1491A-KthLargestValue.py) | ⬜ 800 | `Implementation` `Brute Force` `Greedy` |
 | [4C. Registration System](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/4C-RegistrationSystem.py) | 🟩 1300 | `Data Structures` `Hashing` `Implementation` |
-| [1800C2. Powering The Hero](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1800C2-PoweringTheHero.py) | 🟩 1100 | `Data Structures` `Greddy` |
+| [1428C. ABBB](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1428C-ABBB.py) | 🟩 1300 | `Data Structures` `Hashing` `Implementation` |
+| [1800C2. Powering The Hero](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1800C2-PoweringTheHero.py) | 🟩 1100 | `Brute Force` `Data Structures` `Greddy` `Strings` |
 | [1324D. Pair of Topics](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1324D-PairOfTopics.py) | 🟩 1400 | `Data Structures` `Binary Search` `Two Pointers` `Sortings` |
