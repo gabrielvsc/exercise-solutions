@@ -42,6 +42,8 @@ A repository showcasing my solutions to LeetCode and CodeForces problems. While 
 | [466A. Cheap Travel](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/466A-CheapTravel.py) | ⬜ 1200 | `Implementation` |
 | [451A. Game With Sticks](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/451A-GameWithSticks.py) | ⬜ 900 | `Implementation` |
 | [1491A. K-th Largest Value](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1491A-KthLargestValue.py) | ⬜ 800 | `Implementation` `Brute Force` `Greedy` |
+| [1944A. Destroying Bridges](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1944A-DestroyingBridges.py) | ⬜ 800 | `Greedy` `Graphs` `Math` |
+| [2069A. Was There An Array?](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/2069A-WasThereAnArray.py) | ⬜ 800 | `Greedy` `Graph Matchings` |
 | [4C. Registration System](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/4C-RegistrationSystem.py) | 🟩 1300 | `Data Structures` `Hashing` `Implementation` |
 | [1428C. ABBB](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1428C-ABBB.py) | 🟩 1300 | `Data Structures` `Hashing` `Implementation` |
 | [1800C2. Powering The Hero](https://github.com/gabrielvsc/exercise-solutions/blob/master/codeforces/1800C2-PoweringTheHero.py) | 🟩 1100 | `Brute Force` `Data Structures` `Greddy` `Strings` |
